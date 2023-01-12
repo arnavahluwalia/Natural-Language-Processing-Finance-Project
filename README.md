@@ -1,4 +1,4 @@
-# silver-fortnight
+# Natural Language Processing Finance Project
 
 In this project, I have generated investing insight by applying sentiment analysis on financial news headlines from Finviz. 
 
